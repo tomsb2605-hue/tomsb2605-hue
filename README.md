@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Tom Shabti 👋
 
-<!--
-**tomsb2605-hue/tomsb2605-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **[Digi-Market](https://digimarket.link)**, a digital marketing studio in Israel.
+I build websites and WordPress plugins, and run Google Ads and Meta campaigns for small and medium businesses.
 
-Here are some ideas to get you started:
+### What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Websites:** WordPress sites, landing pages and online stores, built for Hebrew and RTL
+- **Paid ads:** Google Ads and Meta (Facebook and Instagram) campaigns focused on leads and sales
+- **SEO and GEO:** organic search and visibility in AI answer engines
+- **Automation:** CRM, lead routing and reporting
+
+### WordPress plugins I've built
+
+- **Shabbat Lock:** closes a site automatically on Shabbat and Jewish holidays, with a browse-only mode for WooCommerce stores
+- **Privorify:** privacy policy and cookie consent for Israeli websites
+- **PeakUp:** an AI chat assistant for business websites
+
+### Get in touch
+
+🌐 [digimarket.link](https://digimarket.link)
